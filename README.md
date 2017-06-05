@@ -1,2 +1,0 @@
-# myFirstProject
-ssm+bootstrap+springboot
